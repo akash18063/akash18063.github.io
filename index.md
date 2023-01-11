@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Blogs about software and systems engineering.
 
-Maybe say a some things about yourself.
+I am a senior software engineer interested in software systems.
 
-Or maybe what you plan to blog about.
+I plan to blog about fundamental and maybe some advanced software engineering concepts that might help people who randomly land on this blog :)
