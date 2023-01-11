@@ -24,7 +24,7 @@ linkedin_username: "akash-gosain-12b510100"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "hacker"
+theme: "minima"
 
 rss: rss
 
