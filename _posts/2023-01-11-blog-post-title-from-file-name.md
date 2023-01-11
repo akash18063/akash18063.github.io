@@ -4,10 +4,10 @@ Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHu
 
 If the file does not start with a header, then the post title will be derived from the filename.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+<!-- This is a sample blog post. You can talk about all sorts of fun things here. -->
 
 ---
-
+<!-- 
 ### This is a header
 
 #### Some T-SQL Code
@@ -28,5 +28,5 @@ Write-Host "This is a powershell Code block";
 
 ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
-}
+} -->
 ```

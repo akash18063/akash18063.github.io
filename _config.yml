@@ -43,6 +43,12 @@ collections:
   personal: # collection for personal blog posts
     output: true
 
+header_pages:
+  # - resume.html
+  - archive-date.html
+  # - books.md
+  # - bookmarks.md
+
 home_post_limit: 5
 
 
